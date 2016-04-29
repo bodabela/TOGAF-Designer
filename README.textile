@@ -12,3 +12,5 @@ More details about features, screenshots, release notes, dependencies here:
 
 
 To build the module you'll need Maven3 (with Tycho plugin) and run @mvn clean verify@
+
+set MAVEN_OPTS=-Djava.util.Arrays.useLegacyMergeSort=true
