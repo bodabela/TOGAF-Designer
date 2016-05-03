@@ -76,11 +76,11 @@
       <!--<url>http://update.obeo.fr/release/designer/7.0/community/7.0.1/luna/repository/</url>-->
 	  <url>http://releases.obeonetwork.com/sirius_3_0/</url>
     </repository>
-    <repository>
+    <!--repository>
       <id>viewpoint2</id>
       <layout>p2</layout>
 	  <url>http://marketplace.obeonetwork.com/updates/sirius2.0/</url>
-    </repository>
+    </repository-->
 	
     <repository>
       <id>AcceleoLegacy</id>
